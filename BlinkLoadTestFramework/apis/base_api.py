@@ -193,7 +193,7 @@ def generate_user_id():
     return 'random-user-id'
 
 def generate_event_id():
-    return "112"
+    return "4531"
 
 def generate_badge_qr_code():
     return random.choice(badge_qr_codes) if badge_qr_codes else "no-qr-code-loaded"

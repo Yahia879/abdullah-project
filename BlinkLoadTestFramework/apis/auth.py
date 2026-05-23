@@ -6,10 +6,10 @@ LOGISTICS_LOGIN_URL = os.getenv(
     "https://dev-foundation-api-admin.blink.global/api/v2/mobile-logistics/login",
 )
 
-LOGISTICS_USERNAME = os.getenv("BLINK_LOGISTICS_USERNAME", "yazenhalid0306")
+LOGISTICS_USERNAME = os.getenv("BLINK_LOGISTICS_USERNAME", "testingtesting")
 LOGISTICS_PASSWORD = os.getenv(
     "BLINK_LOGISTICS_PASSWORD",
-    "713bf1f6dd3e32820c14198f7d484a56cefd8eef13d8d0fa042b2b04fa263926",
+    "0822dae81bd1c4dd2d4e054ea0cebe31c0eac7ed6210b645bc262db7a0f5cd13",
 )
 LOGISTICS_DEVICE_ID = os.getenv(
     "BLINK_LOGISTICS_DEVICE_ID",

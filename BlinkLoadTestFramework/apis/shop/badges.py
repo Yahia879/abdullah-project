@@ -17,7 +17,7 @@ def load_form_ids():
     """Fetch valid badge form IDs from the API before the test starts."""
     global _form_ids
     try:
-        url = f"{FOUNDATION_HOST}/api/v3/blink-shop/user-badges?event_id=112"
+        url = f"{FOUNDATION_HOST}/api/v3/blink-shop/user-badges?event_id=4531"
         resp = requests.get(url, headers=base_api.shop_headers, timeout=10)
         if resp.status_code == 200:
             ids = [
@@ -39,13 +39,13 @@ def _get_form_id():
 
 
 def get_user_badge_endpoint():
-    return f"{FOUNDATION_HOST}/api/v3/blink-shop/assigned-form-details/{_get_form_id()}?event_id=112"
+    return f"{FOUNDATION_HOST}/api/v3/blink-shop/assigned-form-details/{_get_form_id()}?event_id=4531"
 
 def get_user_badge_method():
     return "GET"
 
 def get_assign_badge_endpoint():
-    return f"{FOUNDATION_HOST}/api/v3/blink-shop/assigned-form-details/{_get_form_id()}?event_id=112"
+    return f"{FOUNDATION_HOST}/api/v3/blink-shop/assigned-form-details/{_get_form_id()}?event_id=4531"
 
 def get_assign_badge_method():
     return "PATCH"

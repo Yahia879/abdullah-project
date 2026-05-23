@@ -328,59 +328,59 @@ initialize_error_log()
 #         )
 
 
-# class AdmissionUser(HttpUser):
-#     wait_time = between(1, 3)
-#     host = "https://dev-foundation-api-admin.blink.global"
+class AdmissionUser(HttpUser):
+    wait_time = between(1, 3)
+    host = "https://dev-foundation-api-admin.blink.global"
     
-#     def on_start(self):
-#         self.headers = admission_headers.copy()
+    def on_start(self):
+        self.headers = admission_headers.copy()
     
-#     @task(5)
-#     def search_users(self):
-#         self.client.get(
-#             user_search.get_endpoint(),
-#             headers=self.headers
-#         )
+    # @task(5)
+    # def search_users(self):
+    #     self.client.get(
+    #         user_search.get_endpoint(),
+    #         headers=self.headers
+    #     )
     
-#     @task(10)
-#     def show_item(self):
-#         self.client.get(
-#             qr_code.get_show_item_endpoint(),
-#             headers=self.headers
-#         )
+    @task(10)
+    def show_item(self):
+        self.client.get(
+            qr_code.get_show_item_endpoint(),
+            headers=self.headers
+        )
     
-#     @task(8)
-#     def send_verification_code(self):
-#         endpoint = qr_code.get_send_verification_endpoint()
-#         data = qr_code.create_send_verification_message()
+    # @task(8)
+    # def send_verification_code(self):
+    #     endpoint = qr_code.get_send_verification_endpoint()
+    #     data = qr_code.create_send_verification_message()
         
-#         self.client.post(
-#             endpoint, 
-#             data=data, 
-#             headers=self.headers
-#         )
+    #     self.client.post(
+    #         endpoint, 
+    #         data=data, 
+    #         headers=self.headers
+    #     )
     
-#     @task(8)
-#     def verify_code(self):
-#         endpoint = qr_code.get_verify_code_endpoint()
-#         data = qr_code.create_verify_code_message()
+    # @task(8)
+    # def verify_code(self):
+    #     endpoint = qr_code.get_verify_code_endpoint()
+    #     data = qr_code.create_verify_code_message()
         
-#         self.client.post(
-#             endpoint, 
-#             data=data, 
-#             headers=self.headers
-#         )
+    #     self.client.post(
+    #         endpoint, 
+    #         data=data, 
+    #         headers=self.headers
+    #     )
     
-#     @task(15)
-#     def print_admission_item(self):
-#         endpoint = qr_code.get_print_endpoint()
-#         data = qr_code.create_print_message()
+    # @task(15)
+    # def print_admission_item(self):
+    #     endpoint = qr_code.get_print_endpoint()
+    #     data = qr_code.create_print_message()
         
-#         self.client.patch(
-#             endpoint, 
-#             data=data, 
-#             headers=self.headers
-#         )
+    #     self.client.patch(
+    #         endpoint, 
+    #         data=data, 
+    #         headers=self.headers
+    #     )
 
 
 class ShopUser(HttpUser):
@@ -391,30 +391,30 @@ class ShopUser(HttpUser):
         self.headers = shop_headers.copy()
         
 
-#     # @task(1)  # TODO: fix login endpoint
-#     # def login_task(self):
-#     #     pass
+    # @task(1)  # TODO: fix login endpoint
+    # def login_task(self):
+    #     pass
 
-#     @task(10)
-#     def get_store_configuration(self):
-#         self.client.get(
-#             shop_homepage.get_store_configuration_endpoint(),
-#             headers=self.headers
-#         )
+    @task(10)
+    def get_store_configuration(self):
+        self.client.get(
+            shop_homepage.get_store_configuration_endpoint(),
+            headers=self.headers
+        )
 
-#     @task(8)
-#     def check_event_exist(self):
-#         self.client.get(
-#             shop_homepage.get_check_event_endpoint(),
-#             headers=self.headers
-#         )
+    @task(8)
+    def check_event_exist(self):
+        self.client.get(
+            shop_homepage.get_check_event_endpoint(),
+            headers=self.headers
+        )
 
-#     @task(7)
-#     def get_badge_groups(self):
-#         self.client.get(
-#             shop_homepage.get_badge_groups_endpoint(),
-#             headers=self.headers
-#         )
+    @task(7)
+    def get_badge_groups(self):
+        self.client.get(
+            shop_homepage.get_badge_groups_endpoint(),
+            headers=self.headers
+        )
 
     @task(9)
     def get_user_badge(self):
@@ -428,106 +428,106 @@ class ShopUser(HttpUser):
     # def upload_photo(self):
     #     pass
 
-    # @task(15)
-    # def assign_badge(self):
-    #     endpoint = badges.get_assign_badge_endpoint()
-    #     data = badges.create_assign_badge_message()
+    @task(15)
+    def assign_badge(self):
+        endpoint = badges.get_assign_badge_endpoint()
+        data = badges.create_assign_badge_message()
 
-    #     self.client.patch(
-    #         endpoint,
-    #         name="/api/v3/blink-shop/assigned-form-details/[id]",
-    #         data=data,
-    #         headers=self.headers
-    #     )
+        self.client.patch(
+            endpoint,
+            name="/api/v3/blink-shop/assigned-form-details/[id]",
+            data=data,
+            headers=self.headers
+        )
 
 
-# class EventAppUser(HttpUser):
-#     wait_time = between(1, 3)  
-#     host = "https://dev-integration.blink.global"
+class EventAppUser(HttpUser):
+    wait_time = between(1, 3)  
+    host = "https://dev-integration.blink.global"
 
     
-#     def on_start(self):
-#         self.headers = {
-#             "Content-Type": "application/json",
-#             "User-Agent": "Load test - EventApp",
-#             "Authorization": "Bearer gILwqWSfFoEZhFWG7v+kzLjlYwQKVQl1aWBsfZKsh7s=",
-#             "Origin": "blink.global"
-#         }
-#         self.endpoint = "/gw/publish"
+    def on_start(self):
+        self.headers = {
+            "Content-Type": "application/json",
+            "User-Agent": "Load test - EventApp",
+            "Authorization": "Bearer gILwqWSfFoEZhFWG7v+kzLjlYwQKVQl1aWBsfZKsh7s=",
+            "Origin": "blink.global"
+        }
+        self.endpoint = "/gw/publish"
     
-#     @task(1)
-#     def update_profile(self):
-#         json_body = profile_update.create_message_json()
-#         self.client.post(
-#             self.endpoint,
-#             json=json_body,
-#             headers=self.headers,
-#             name="EventApp-UpdateProfile"  # Custom name for this operation
-#         )
+    @task(1)
+    def update_profile(self):
+        json_body = profile_update.create_message_json()
+        self.client.post(
+            self.endpoint,
+            json=json_body,
+            headers=self.headers,
+            name="EventApp-UpdateProfile"  # Custom name for this operation
+        )
     
-#     @task(5)
-#     def connect_attendees(self):
-#         json_body = attendee_connect.create_message_json()
-#         self.client.post(
-#             self.endpoint,
-#             json=json_body,
-#             headers=self.headers,
-#             name="EventApp-ConnectAttendees"  # Custom name for this operation
-#         )
+    @task(5)
+    def connect_attendees(self):
+        json_body = attendee_connect.create_message_json()
+        self.client.post(
+            self.endpoint,
+            json=json_body,
+            headers=self.headers,
+            name="EventApp-ConnectAttendees"  # Custom name for this operation
+        )
     
-#     @task(2)
-#     def disconnect_attendees(self):
-#         self.client.post(
-#             self.endpoint,
-#             json=attendee_unconnect.create_message_json(),
-#             headers=self.headers,
-#             name="EventApp-DisconnectAttendees"  # Custom name for this operation
-#         )
+    @task(2)
+    def disconnect_attendees(self):
+        self.client.post(
+            self.endpoint,
+            json=attendee_unconnect.create_message_json(),
+            headers=self.headers,
+            name="EventApp-DisconnectAttendees"  # Custom name for this operation
+        )
     
-#     @task(5)
-#     def schedule_a_session(self):
-#         self.client.post(
-#             self.endpoint,
-#             json=schedule_session.create_message_json(),
-#             headers=self.headers,
-#             name="EventApp-ScheduleSession"  # Custom name for this operation
-#         )
+    @task(5)
+    def schedule_a_session(self):
+        self.client.post(
+            self.endpoint,
+            json=schedule_session.create_message_json(),
+            headers=self.headers,
+            name="EventApp-ScheduleSession"  # Custom name for this operation
+        )
     
-#     @task(2)
-#     def unschedule_a_session(self):
-#         self.client.post(
-#             self.endpoint,
-#             json=session_unschedule.create_message_json(),
-#             headers=self.headers,
-#             name="EventApp-UnscheduleSession"  # Custom name for this operation
-#         )
+    @task(2)
+    def unschedule_a_session(self):
+        self.client.post(
+            self.endpoint,
+            json=session_unschedule.create_message_json(),
+            headers=self.headers,
+            name="EventApp-UnscheduleSession"  # Custom name for this operation
+        )
     
-#     @task(1)
-#     def update_fcm_token(self):
-#         self.client.post(
-#             self.endpoint,
-#             json=attendee_fcm_token.create_message_json(),
-#             headers=self.headers,
-#             name="EventApp-UpdateFCMToken"  # Custom name for this operation
-#         )
+    @task(1)
+    def update_fcm_token(self):
+        self.client.post(
+            self.endpoint,
+            json=attendee_fcm_token.create_message_json(),
+            headers=self.headers,
+            name="EventApp-UpdateFCMToken"  # Custom name for this operation
+        )
     
-#     @task(1)
-#     def update_interests(self):
-#         self.client.post(
-#             self.endpoint,
-#             json=attendee_interest_update.create_message_json(),
-#             headers=self.headers,
-#             name="EventApp-UpdateInterests"  # Custom name for this operation
-#         )
+    @task(1)
+    def update_interests(self):
+        self.client.post(
+            self.endpoint,
+            json=attendee_interest_update.create_message_json(),
+            headers=self.headers,
+            name="EventApp-UpdateInterests"  # Custom name for this operation
+        )
     
-#     @task(1)
-#     def update_attendee(self):
-#         self.client.post(
-#             self.endpoint,
-#             json=attendee_update.create_message_json(),
-#             headers=self.headers,
-#             name="EventApp-UpdateAttendee"  # Custom name for this operation
-#         )
+    @task(1)
+    def update_attendee(self):
+        self.client.post(
+            self.endpoint,
+            json=attendee_update.create_message_json(),
+            headers=self.headers,
+            name="EventApp-UpdateAttendee"  # Custom name for this operation
+        )
 
 # class EventAppSyncUser(HttpUser):
 #     wait_time = between(1, 3)  
