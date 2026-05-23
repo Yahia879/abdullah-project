@@ -56,6 +56,27 @@ def login_admission():
     return resp.json()["token"]
 
 
+# Pulls a fresh Keycloak access token using manually provided cookies
+def login_shop_manual(cookie_0, cookie_1):
+    if not cookie_0 or not cookie_1:
+        print("[auth] Manual cookies not set — Shop tasks will 401")
+        return ""
+    try:
+        resp = requests.get(
+            SHOP_SESSION_URL,
+            cookies={
+                "__Secure-next-auth.session-token.0": cookie_0,
+                "__Secure-next-auth.session-token.1": cookie_1,
+            },
+            timeout=15,
+        )
+        resp.raise_for_status()
+        return resp.json().get("accessToken", "")
+    except Exception as e:
+        print(f"[auth] login_shop_manual failed: {e}")
+        return ""
+
+
 # Pulls a fresh Keycloak access token from the dev-shop NextAuth session endpoint
 # using browser session cookies. Cookies expire ~30 days; access token refreshes on each call.
 def login_shop():
