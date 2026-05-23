@@ -29392,5 +29392,3200 @@
     "response_time_ms": 470,
     "exception": "422 Client Error: Unprocessable Entity for url: Notifications - Send Update",
     "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551093.642432,
+    "datetime": "2026-05-23 18:44:53",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 607,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551096.0986352,
+    "datetime": "2026-05-23 18:44:56",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 383,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551098.3044658,
+    "datetime": "2026-05-23 18:44:58",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 286,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551100.1962187,
+    "datetime": "2026-05-23 18:45:00",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 373,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551103.0641878,
+    "datetime": "2026-05-23 18:45:03",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 429,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551106.201099,
+    "datetime": "2026-05-23 18:45:06",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 375,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551108.2842052,
+    "datetime": "2026-05-23 18:45:08",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 364,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551109.9844277,
+    "datetime": "2026-05-23 18:45:09",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 340,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551111.817054,
+    "datetime": "2026-05-23 18:45:11",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 309,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551114.8392131,
+    "datetime": "2026-05-23 18:45:14",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 432,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551116.3289006,
+    "datetime": "2026-05-23 18:45:16",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 328,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551119.0000691,
+    "datetime": "2026-05-23 18:45:18",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 319,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551121.4553688,
+    "datetime": "2026-05-23 18:45:21",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 290,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551124.6681461,
+    "datetime": "2026-05-23 18:45:24",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 384,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551127.7401817,
+    "datetime": "2026-05-23 18:45:27",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 361,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551130.5050156,
+    "datetime": "2026-05-23 18:45:30",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 318,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551133.7833793,
+    "datetime": "2026-05-23 18:45:33",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 361,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551136.5054963,
+    "datetime": "2026-05-23 18:45:36",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 292,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551138.015035,
+    "datetime": "2026-05-23 18:45:38",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 293,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551140.2335,
+    "datetime": "2026-05-23 18:45:40",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 356,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551143.5998266,
+    "datetime": "2026-05-23 18:45:43",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 385,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551145.3307443,
+    "datetime": "2026-05-23 18:45:45",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 324,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551147.3623652,
+    "datetime": "2026-05-23 18:45:47",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 310,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551150.3395326,
+    "datetime": "2026-05-23 18:45:50",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 306,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551153.5510979,
+    "datetime": "2026-05-23 18:45:53",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 305,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551156.7595527,
+    "datetime": "2026-05-23 18:45:56",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 301,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551159.9033966,
+    "datetime": "2026-05-23 18:45:59",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 316,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551162.236839,
+    "datetime": "2026-05-23 18:46:02",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 422,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551165.6300175,
+    "datetime": "2026-05-23 18:46:05",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 342,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551168.2995863,
+    "datetime": "2026-05-23 18:46:08",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 388,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551169.9305906,
+    "datetime": "2026-05-23 18:46:09",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 319,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551171.3143203,
+    "datetime": "2026-05-23 18:46:11",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 310,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551172.907076,
+    "datetime": "2026-05-23 18:46:12",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 294,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551174.536011,
+    "datetime": "2026-05-23 18:46:14",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 355,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551176.298346,
+    "datetime": "2026-05-23 18:46:16",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 312,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551179.349998,
+    "datetime": "2026-05-23 18:46:19",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 386,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551181.7191193,
+    "datetime": "2026-05-23 18:46:21",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 309,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551184.4610548,
+    "datetime": "2026-05-23 18:46:24",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 287,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551185.9809413,
+    "datetime": "2026-05-23 18:46:25",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 283,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551187.8500836,
+    "datetime": "2026-05-23 18:46:27",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 314,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551190.221013,
+    "datetime": "2026-05-23 18:46:30",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 309,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551191.704798,
+    "datetime": "2026-05-23 18:46:31",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 328,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551194.0292435,
+    "datetime": "2026-05-23 18:46:34",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 543,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551196.2533975,
+    "datetime": "2026-05-23 18:46:36",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 397,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551198.3146143,
+    "datetime": "2026-05-23 18:46:38",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 293,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551200.726465,
+    "datetime": "2026-05-23 18:46:40",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 290,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551202.2899888,
+    "datetime": "2026-05-23 18:46:42",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 293,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551203.8668926,
+    "datetime": "2026-05-23 18:46:43",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 289,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551207.1633031,
+    "datetime": "2026-05-23 18:46:47",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 310,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551209.9724631,
+    "datetime": "2026-05-23 18:46:49",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 323,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551212.5862212,
+    "datetime": "2026-05-23 18:46:52",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 284,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551215.311576,
+    "datetime": "2026-05-23 18:46:55",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 306,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551217.3140404,
+    "datetime": "2026-05-23 18:46:57",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 327,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551220.858655,
+    "datetime": "2026-05-23 18:47:00",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 1237,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551239.4609714,
+    "datetime": "2026-05-23 18:47:19",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 686,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551243.2470937,
+    "datetime": "2026-05-23 18:47:23",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 685,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551252.7388556,
+    "datetime": "2026-05-23 18:47:32",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 320,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551263.9304922,
+    "datetime": "2026-05-23 18:47:43",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 300,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551268.3633735,
+    "datetime": "2026-05-23 18:47:48",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 293,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551276.5739827,
+    "datetime": "2026-05-23 18:47:56",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 303,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551278.574459,
+    "datetime": "2026-05-23 18:47:58",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 301,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551281.5459385,
+    "datetime": "2026-05-23 18:48:01",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 331,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551286.1949732,
+    "datetime": "2026-05-23 18:48:06",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 275,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551288.8758633,
+    "datetime": "2026-05-23 18:48:08",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 311,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551290.5420923,
+    "datetime": "2026-05-23 18:48:10",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 280,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551293.5112388,
+    "datetime": "2026-05-23 18:48:13",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 331,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551294.9076686,
+    "datetime": "2026-05-23 18:48:14",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 291,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551296.2762587,
+    "datetime": "2026-05-23 18:48:16",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 289,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551726.2550864,
+    "datetime": "2026-05-23 18:55:26",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=2b3f00e36ce1d5e0ab561c8d000c86be",
+    "response_time_ms": 304,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=2b3f00e36ce1d5e0ab561c8d000c86be",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551728.8887203,
+    "datetime": "2026-05-23 18:55:28",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=7f4919f9b8bd4fbb6849d1fa4f900b35",
+    "response_time_ms": 311,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=7f4919f9b8bd4fbb6849d1fa4f900b35",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551730.7231653,
+    "datetime": "2026-05-23 18:55:30",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=74d8915df49e289525036adbf7644e9c",
+    "response_time_ms": 290,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=74d8915df49e289525036adbf7644e9c",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551733.0233173,
+    "datetime": "2026-05-23 18:55:33",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=6526416953ca398eae18865e08b9be17",
+    "response_time_ms": 431,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=6526416953ca398eae18865e08b9be17",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551737.7357905,
+    "datetime": "2026-05-23 18:55:37",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=7b726e5d4109cd10d93252e1fffaf157",
+    "response_time_ms": 311,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=7b726e5d4109cd10d93252e1fffaf157",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551740.2618124,
+    "datetime": "2026-05-23 18:55:40",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=fa06627aedfc47793d5ed9e5dd72c654",
+    "response_time_ms": 277,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=fa06627aedfc47793d5ed9e5dd72c654",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551746.5463216,
+    "datetime": "2026-05-23 18:55:46",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c6ae3686d41555e3aa16effa86d966c9",
+    "response_time_ms": 289,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c6ae3686d41555e3aa16effa86d966c9",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551748.896021,
+    "datetime": "2026-05-23 18:55:48",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b0be34d87e0614a3e2b1ce8ae6ef9014",
+    "response_time_ms": 425,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b0be34d87e0614a3e2b1ce8ae6ef9014",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551751.7612553,
+    "datetime": "2026-05-23 18:55:51",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=99eb9d6845b6e00f419769328ae0abd1",
+    "response_time_ms": 344,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=99eb9d6845b6e00f419769328ae0abd1",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551753.9119866,
+    "datetime": "2026-05-23 18:55:53",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=757a44a2e9bf72021367e032eeb54fb6",
+    "response_time_ms": 402,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=757a44a2e9bf72021367e032eeb54fb6",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551756.6293662,
+    "datetime": "2026-05-23 18:55:56",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a191c3cce31666c68f41c2734c7cbde5",
+    "response_time_ms": 299,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a191c3cce31666c68f41c2734c7cbde5",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551758.832403,
+    "datetime": "2026-05-23 18:55:58",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=2f5709affc22115ffa920c506d31cdd5",
+    "response_time_ms": 375,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=2f5709affc22115ffa920c506d31cdd5",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551761.6005645,
+    "datetime": "2026-05-23 18:56:01",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=523a2a5a14e9239f38fccaebc0a96d37",
+    "response_time_ms": 316,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=523a2a5a14e9239f38fccaebc0a96d37",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551763.8446474,
+    "datetime": "2026-05-23 18:56:03",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e89cd58454b5dbc0624ebe437d78b3da",
+    "response_time_ms": 365,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e89cd58454b5dbc0624ebe437d78b3da",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551765.8928425,
+    "datetime": "2026-05-23 18:56:05",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=17b673146149c9b317e14c1b5b6d38d0",
+    "response_time_ms": 358,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=17b673146149c9b317e14c1b5b6d38d0",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551768.6583078,
+    "datetime": "2026-05-23 18:56:08",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=af5b6247c06337a39d87a95c0f6fc157",
+    "response_time_ms": 335,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=af5b6247c06337a39d87a95c0f6fc157",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551771.427478,
+    "datetime": "2026-05-23 18:56:11",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d66569ad1572dca75043cec3e5ce7fb2",
+    "response_time_ms": 314,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d66569ad1572dca75043cec3e5ce7fb2",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551774.365641,
+    "datetime": "2026-05-23 18:56:14",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=cd55e80caf8c688d9a8312e375a0a018",
+    "response_time_ms": 291,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=cd55e80caf8c688d9a8312e375a0a018",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551780.791195,
+    "datetime": "2026-05-23 18:56:20",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=65b9f4a6e8b8fb88b7b88e7998c3ee4a",
+    "response_time_ms": 308,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=65b9f4a6e8b8fb88b7b88e7998c3ee4a",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551783.4684958,
+    "datetime": "2026-05-23 18:56:23",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=031d1997d40ce3f55fc42b3a095c9518",
+    "response_time_ms": 337,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=031d1997d40ce3f55fc42b3a095c9518",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551789.7163754,
+    "datetime": "2026-05-23 18:56:29",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=1210207c9d2a22e8078e05b6ef275844",
+    "response_time_ms": 314,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=1210207c9d2a22e8078e05b6ef275844",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551794.315665,
+    "datetime": "2026-05-23 18:56:34",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=39a9e0a027610eb166b9fa57d6e9ad68",
+    "response_time_ms": 311,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=39a9e0a027610eb166b9fa57d6e9ad68",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551797.024793,
+    "datetime": "2026-05-23 18:56:37",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e4288c87138c3f9a0ff5459c17a433e7",
+    "response_time_ms": 316,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e4288c87138c3f9a0ff5459c17a433e7",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551799.4080021,
+    "datetime": "2026-05-23 18:56:39",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=fdee16bbdac8db660e1d6614eac81d5c",
+    "response_time_ms": 290,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=fdee16bbdac8db660e1d6614eac81d5c",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551802.3483057,
+    "datetime": "2026-05-23 18:56:42",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a60fb42c26284f322c18fd70d33a951b",
+    "response_time_ms": 306,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a60fb42c26284f322c18fd70d33a951b",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551805.6926336,
+    "datetime": "2026-05-23 18:56:45",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=577c96310012677dec5c274be9279002",
+    "response_time_ms": 316,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=577c96310012677dec5c274be9279002",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551809.0179853,
+    "datetime": "2026-05-23 18:56:49",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=64d24eba97fe69cb84dc82467dc8f812",
+    "response_time_ms": 279,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=64d24eba97fe69cb84dc82467dc8f812",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551812.01063,
+    "datetime": "2026-05-23 18:56:52",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=0188337c62e20f8fed11873c3b955729",
+    "response_time_ms": 292,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=0188337c62e20f8fed11873c3b955729",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551816.7601433,
+    "datetime": "2026-05-23 18:56:56",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=59bee18c2e7bbb0ac7abcb8fa6c19c26",
+    "response_time_ms": 311,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=59bee18c2e7bbb0ac7abcb8fa6c19c26",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551820.099576,
+    "datetime": "2026-05-23 18:57:00",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ad64f7a47dcdb8f33c543548222db003",
+    "response_time_ms": 309,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ad64f7a47dcdb8f33c543548222db003",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551823.3715055,
+    "datetime": "2026-05-23 18:57:03",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=941f2d40c5171836db0e9ed7cef652cd",
+    "response_time_ms": 341,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=941f2d40c5171836db0e9ed7cef652cd",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551825.6032953,
+    "datetime": "2026-05-23 18:57:05",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d5d787cfdf3cb0883a69c097d0f86031",
+    "response_time_ms": 312,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d5d787cfdf3cb0883a69c097d0f86031",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551828.422528,
+    "datetime": "2026-05-23 18:57:08",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=036e970bf41b12d9ce00cc185c9c7440",
+    "response_time_ms": 311,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=036e970bf41b12d9ce00cc185c9c7440",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551831.2301893,
+    "datetime": "2026-05-23 18:57:11",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=eebe7fb50397572a94159e706d2c729f",
+    "response_time_ms": 308,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=eebe7fb50397572a94159e706d2c729f",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551833.1238248,
+    "datetime": "2026-05-23 18:57:13",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=24a850fd0926d60ffa58cc7631a9ad73",
+    "response_time_ms": 298,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=24a850fd0926d60ffa58cc7631a9ad73",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551835.4235342,
+    "datetime": "2026-05-23 18:57:15",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f60a485c4794dbb6cf85a90835e7f3ca",
+    "response_time_ms": 422,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f60a485c4794dbb6cf85a90835e7f3ca",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551839.7234726,
+    "datetime": "2026-05-23 18:57:19",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=38800d58c6bbcad7033971e09b10d9c0",
+    "response_time_ms": 1434,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=38800d58c6bbcad7033971e09b10d9c0",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551841.5613298,
+    "datetime": "2026-05-23 18:57:21",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=fef8c93a5d45f5c7b742907e6d20ea25",
+    "response_time_ms": 345,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=fef8c93a5d45f5c7b742907e6d20ea25",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551845.3596876,
+    "datetime": "2026-05-23 18:57:25",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c223f3f6f673c59f6afd4731d8a36739",
+    "response_time_ms": 501,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c223f3f6f673c59f6afd4731d8a36739",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551851.1546977,
+    "datetime": "2026-05-23 18:57:31",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=523a2a5a14e9239f38fccaebc0a96d37",
+    "response_time_ms": 340,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=523a2a5a14e9239f38fccaebc0a96d37",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551854.3216386,
+    "datetime": "2026-05-23 18:57:34",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9614a7f68108f36ee373b78007f8cc71",
+    "response_time_ms": 343,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9614a7f68108f36ee373b78007f8cc71",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551857.6594145,
+    "datetime": "2026-05-23 18:57:37",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=213c8f66872fd06f5ce5960fd24f3b3f",
+    "response_time_ms": 389,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=213c8f66872fd06f5ce5960fd24f3b3f",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551862.5583909,
+    "datetime": "2026-05-23 18:57:42",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=900f1806d08a0b1b390b26679c22a154",
+    "response_time_ms": 410,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=900f1806d08a0b1b390b26679c22a154",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551864.7086365,
+    "datetime": "2026-05-23 18:57:44",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=831972b7f3d7f440c00c34b2fb009593",
+    "response_time_ms": 349,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=831972b7f3d7f440c00c34b2fb009593",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551868.0006962,
+    "datetime": "2026-05-23 18:57:48",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=22b38abea78c5cee04307b0ed751eac6",
+    "response_time_ms": 310,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=22b38abea78c5cee04307b0ed751eac6",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551869.5434222,
+    "datetime": "2026-05-23 18:57:49",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e9f17c8742dc307a3f8d5ea7038933d0",
+    "response_time_ms": 284,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e9f17c8742dc307a3f8d5ea7038933d0",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551871.5043538,
+    "datetime": "2026-05-23 18:57:51",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=22ee97bc8c251c8c6bcc235b9e1cb230",
+    "response_time_ms": 282,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=22ee97bc8c251c8c6bcc235b9e1cb230",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551877.7149115,
+    "datetime": "2026-05-23 18:57:57",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=8ab6d6188ee1009cb06c2283c49c3fb6",
+    "response_time_ms": 325,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=8ab6d6188ee1009cb06c2283c49c3fb6",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551880.2752702,
+    "datetime": "2026-05-23 18:58:00",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a9a5b8bc3e4c57f7bc30f23e0280f3b6",
+    "response_time_ms": 401,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a9a5b8bc3e4c57f7bc30f23e0280f3b6",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551883.0375755,
+    "datetime": "2026-05-23 18:58:03",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9a236edb5d59271a0b893b8c426c0b70",
+    "response_time_ms": 363,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9a236edb5d59271a0b893b8c426c0b70",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551885.2437127,
+    "datetime": "2026-05-23 18:58:05",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a5d8c08defadfb0d380edd2f8842c9f3",
+    "response_time_ms": 291,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a5d8c08defadfb0d380edd2f8842c9f3",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551887.8394847,
+    "datetime": "2026-05-23 18:58:07",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ba9c705899489004d3cce528e05beba8",
+    "response_time_ms": 360,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ba9c705899489004d3cce528e05beba8",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551890.9851415,
+    "datetime": "2026-05-23 18:58:10",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=cb0bae4803ddd77667ee6c44a33d7b16",
+    "response_time_ms": 289,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=cb0bae4803ddd77667ee6c44a33d7b16",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551893.073985,
+    "datetime": "2026-05-23 18:58:13",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=8bb683d8beac6e438d555f65c42555a7",
+    "response_time_ms": 425,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=8bb683d8beac6e438d555f65c42555a7",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551895.128166,
+    "datetime": "2026-05-23 18:58:15",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e9f17c8742dc307a3f8d5ea7038933d0",
+    "response_time_ms": 299,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e9f17c8742dc307a3f8d5ea7038933d0",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551897.3730283,
+    "datetime": "2026-05-23 18:58:17",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=efbfe8e0c3c18799d4cfcefa5e14123b",
+    "response_time_ms": 296,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=efbfe8e0c3c18799d4cfcefa5e14123b",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551900.4472256,
+    "datetime": "2026-05-23 18:58:20",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c1506bba773e5ef77c844744df7d0194",
+    "response_time_ms": 321,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c1506bba773e5ef77c844744df7d0194",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551903.9215217,
+    "datetime": "2026-05-23 18:58:23",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f0fb1f9bfb31fddb086ccce3d26f1b79",
+    "response_time_ms": 611,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f0fb1f9bfb31fddb086ccce3d26f1b79",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551905.8246503,
+    "datetime": "2026-05-23 18:58:25",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=1ba0e726180ed264f97666ace81004e7",
+    "response_time_ms": 296,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=1ba0e726180ed264f97666ace81004e7",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551909.0527284,
+    "datetime": "2026-05-23 18:58:29",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=10e8226f85b5aa20ae5e91cc278d4be6",
+    "response_time_ms": 289,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=10e8226f85b5aa20ae5e91cc278d4be6",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551910.8903277,
+    "datetime": "2026-05-23 18:58:30",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d3159fb59dceb4e673ac099a5321a44b",
+    "response_time_ms": 385,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d3159fb59dceb4e673ac099a5321a44b",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551917.2677097,
+    "datetime": "2026-05-23 18:58:37",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ed89fdedec55e20ae25182af14e3c21a",
+    "response_time_ms": 284,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ed89fdedec55e20ae25182af14e3c21a",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551920.618877,
+    "datetime": "2026-05-23 18:58:40",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a3f27ea8ebb7373e3d522d4c17520c63",
+    "response_time_ms": 369,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a3f27ea8ebb7373e3d522d4c17520c63",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551922.053986,
+    "datetime": "2026-05-23 18:58:42",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=dfe6c4bd42643331065fe8c7bbb6f852",
+    "response_time_ms": 324,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=dfe6c4bd42643331065fe8c7bbb6f852",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551925.2782106,
+    "datetime": "2026-05-23 18:58:45",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9d11d542feb1f4f580c0fa2acf1dbefe",
+    "response_time_ms": 339,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9d11d542feb1f4f580c0fa2acf1dbefe",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551927.831639,
+    "datetime": "2026-05-23 18:58:47",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ec1436db8c83f7e9d4baaf5b821ea2d5",
+    "response_time_ms": 328,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ec1436db8c83f7e9d4baaf5b821ea2d5",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551929.6244843,
+    "datetime": "2026-05-23 18:58:49",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=3323bc191b382615a9c68a2986a35823",
+    "response_time_ms": 316,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=3323bc191b382615a9c68a2986a35823",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551931.742929,
+    "datetime": "2026-05-23 18:58:51",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=0853a03cc55adb03c4c79f39a0c25cd1",
+    "response_time_ms": 359,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=0853a03cc55adb03c4c79f39a0c25cd1",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551934.1372077,
+    "datetime": "2026-05-23 18:58:54",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=df5f424be386c8e7f2d7cafd33b8293e",
+    "response_time_ms": 312,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=df5f424be386c8e7f2d7cafd33b8293e",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551935.9335148,
+    "datetime": "2026-05-23 18:58:55",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=066a9b454709ad3bf8973466205debe9",
+    "response_time_ms": 341,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=066a9b454709ad3bf8973466205debe9",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551940.690389,
+    "datetime": "2026-05-23 18:59:00",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=4efb6e092ab82731e908355e2320a019",
+    "response_time_ms": 316,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=4efb6e092ab82731e908355e2320a019",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551944.068765,
+    "datetime": "2026-05-23 18:59:04",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=71c40718d05552e662034e7dfba2e3dd",
+    "response_time_ms": 334,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=71c40718d05552e662034e7dfba2e3dd",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551946.0256422,
+    "datetime": "2026-05-23 18:59:06",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=0d03da271ea9170c6a2bcd7cebc743cd",
+    "response_time_ms": 308,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=0d03da271ea9170c6a2bcd7cebc743cd",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551947.7694173,
+    "datetime": "2026-05-23 18:59:07",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=fa9fb9a62938fe9dca8db7d68604183b",
+    "response_time_ms": 337,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=fa9fb9a62938fe9dca8db7d68604183b",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551950.3282924,
+    "datetime": "2026-05-23 18:59:10",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d98a7b05bcd9794730d16ea1ef0a7230",
+    "response_time_ms": 303,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d98a7b05bcd9794730d16ea1ef0a7230",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551952.6713374,
+    "datetime": "2026-05-23 18:59:12",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=831972b7f3d7f440c00c34b2fb009593",
+    "response_time_ms": 314,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=831972b7f3d7f440c00c34b2fb009593",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551954.4120102,
+    "datetime": "2026-05-23 18:59:14",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=859873834c062cbcce81a4b4f607aeb7",
+    "response_time_ms": 335,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=859873834c062cbcce81a4b4f607aeb7",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551957.443108,
+    "datetime": "2026-05-23 18:59:17",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=879cffcc91456da55d4769435fdf17d0",
+    "response_time_ms": 340,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=879cffcc91456da55d4769435fdf17d0",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551960.426242,
+    "datetime": "2026-05-23 18:59:20",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f238cc4a7ba12e2bb238a4e2faf42b2a",
+    "response_time_ms": 281,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f238cc4a7ba12e2bb238a4e2faf42b2a",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551963.3855417,
+    "datetime": "2026-05-23 18:59:23",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=879cffcc91456da55d4769435fdf17d0",
+    "response_time_ms": 327,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=879cffcc91456da55d4769435fdf17d0",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551966.3144004,
+    "datetime": "2026-05-23 18:59:26",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9348493612759fddfb6a7c8a48e74c94",
+    "response_time_ms": 310,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9348493612759fddfb6a7c8a48e74c94",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551968.6485615,
+    "datetime": "2026-05-23 18:59:28",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a268e39e9d2212250156ce8257dc82f1",
+    "response_time_ms": 330,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a268e39e9d2212250156ce8257dc82f1",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551970.8981545,
+    "datetime": "2026-05-23 18:59:30",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=66cb8fec82f5e2a4b42d18c822ab859d",
+    "response_time_ms": 295,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=66cb8fec82f5e2a4b42d18c822ab859d",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551976.0690763,
+    "datetime": "2026-05-23 18:59:36",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=4031164ac7bdaba85285e2f940839985",
+    "response_time_ms": 311,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=4031164ac7bdaba85285e2f940839985",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551980.933796,
+    "datetime": "2026-05-23 18:59:40",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=974e3f5b41180a4a05e3d496cd83b66a",
+    "response_time_ms": 439,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=974e3f5b41180a4a05e3d496cd83b66a",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551982.6304867,
+    "datetime": "2026-05-23 18:59:42",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=971a6852e344537ba9befcc12434cb21",
+    "response_time_ms": 327,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=971a6852e344537ba9befcc12434cb21",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551984.2138493,
+    "datetime": "2026-05-23 18:59:44",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e3476d282a5aea5c8965942a543b7fb0",
+    "response_time_ms": 314,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e3476d282a5aea5c8965942a543b7fb0",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551986.1536827,
+    "datetime": "2026-05-23 18:59:46",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b6922625275c2cd11f680a310e690ea2",
+    "response_time_ms": 403,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b6922625275c2cd11f680a310e690ea2",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551989.150601,
+    "datetime": "2026-05-23 18:59:49",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=8253c1104fd12366a754ea53bd19da8e",
+    "response_time_ms": 295,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=8253c1104fd12366a754ea53bd19da8e",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551990.9708774,
+    "datetime": "2026-05-23 18:59:50",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=cb7282712a9f0f03d9ab7c243706f836",
+    "response_time_ms": 306,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=cb7282712a9f0f03d9ab7c243706f836",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551992.7238815,
+    "datetime": "2026-05-23 18:59:52",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ce22a31b8a08f3d79d9c03f591ebbcc4",
+    "response_time_ms": 293,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ce22a31b8a08f3d79d9c03f591ebbcc4",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551995.1282883,
+    "datetime": "2026-05-23 18:59:55",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=3885599e187a659f2816ddb7df23025c",
+    "response_time_ms": 307,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=3885599e187a659f2816ddb7df23025c",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779551998.5495222,
+    "datetime": "2026-05-23 18:59:58",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f789a4328d2a0dd297e2e10cceb588bc",
+    "response_time_ms": 271,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f789a4328d2a0dd297e2e10cceb588bc",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552000.6916623,
+    "datetime": "2026-05-23 19:00:00",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=cff9609ac21e871180c172fd410d4166",
+    "response_time_ms": 511,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=cff9609ac21e871180c172fd410d4166",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552002.1802146,
+    "datetime": "2026-05-23 19:00:02",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ea045727f29331466de92b0a7a14ab92",
+    "response_time_ms": 333,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ea045727f29331466de92b0a7a14ab92",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552007.7133865,
+    "datetime": "2026-05-23 19:00:07",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f9cd53ab12df8b7573d70d5b64c80d90",
+    "response_time_ms": 303,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f9cd53ab12df8b7573d70d5b64c80d90",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552013.1006584,
+    "datetime": "2026-05-23 19:00:13",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ef091b6e2e9fd57cb8f773eacfb4253a",
+    "response_time_ms": 327,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ef091b6e2e9fd57cb8f773eacfb4253a",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552014.9798093,
+    "datetime": "2026-05-23 19:00:14",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d78fd3ce34546446f630dd891e152a57",
+    "response_time_ms": 312,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d78fd3ce34546446f630dd891e152a57",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552017.6932669,
+    "datetime": "2026-05-23 19:00:17",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e712f9a5c88863fe8b8a903226f944c0",
+    "response_time_ms": 308,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e712f9a5c88863fe8b8a903226f944c0",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552021.0733984,
+    "datetime": "2026-05-23 19:00:21",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=dc1e0fb94a3ff97fdd2317d004474420",
+    "response_time_ms": 326,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=dc1e0fb94a3ff97fdd2317d004474420",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552023.5103896,
+    "datetime": "2026-05-23 19:00:23",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c1506bba773e5ef77c844744df7d0194",
+    "response_time_ms": 324,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c1506bba773e5ef77c844744df7d0194",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552026.504596,
+    "datetime": "2026-05-23 19:00:26",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f5b7c2ebc15079b4ff1cc397aaf8723c",
+    "response_time_ms": 322,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f5b7c2ebc15079b4ff1cc397aaf8723c",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552028.5493195,
+    "datetime": "2026-05-23 19:00:28",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f9d8f4fe4f9d7443ca71fc5a5e0ed4a8",
+    "response_time_ms": 392,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f9d8f4fe4f9d7443ca71fc5a5e0ed4a8",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552031.2387607,
+    "datetime": "2026-05-23 19:00:31",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=620d5385b1c2af595dbf9ade80814ed5",
+    "response_time_ms": 284,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=620d5385b1c2af595dbf9ade80814ed5",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552032.849456,
+    "datetime": "2026-05-23 19:00:32",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=6d157575a733f86fa07e3b38f20a5255",
+    "response_time_ms": 371,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=6d157575a733f86fa07e3b38f20a5255",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552035.4591222,
+    "datetime": "2026-05-23 19:00:35",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=8821462b4cb124c7fb4418c71c2f23c8",
+    "response_time_ms": 287,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=8821462b4cb124c7fb4418c71c2f23c8",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552037.04443,
+    "datetime": "2026-05-23 19:00:37",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f74af06133a512ee25f4109f04b52e0a",
+    "response_time_ms": 278,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f74af06133a512ee25f4109f04b52e0a",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552039.7172256,
+    "datetime": "2026-05-23 19:00:39",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a4c0af50ceb6c93654ca35b969c91426",
+    "response_time_ms": 328,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a4c0af50ceb6c93654ca35b969c91426",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552042.9958801,
+    "datetime": "2026-05-23 19:00:42",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=94a483bc45d7846a6cdae288780d98e1",
+    "response_time_ms": 330,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=94a483bc45d7846a6cdae288780d98e1",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552045.3947842,
+    "datetime": "2026-05-23 19:00:45",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b9844cb41c506fbb72041e1ee241b2d8",
+    "response_time_ms": 294,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b9844cb41c506fbb72041e1ee241b2d8",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552047.7584035,
+    "datetime": "2026-05-23 19:00:47",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=23e58e6020934bedb940386402f04cb6",
+    "response_time_ms": 321,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=23e58e6020934bedb940386402f04cb6",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552050.050987,
+    "datetime": "2026-05-23 19:00:50",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=1b35cc4e959135d5622bab44e248e24f",
+    "response_time_ms": 327,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=1b35cc4e959135d5622bab44e248e24f",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552051.462555,
+    "datetime": "2026-05-23 19:00:51",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=bcb9a557fba96326f87907ee39d420df",
+    "response_time_ms": 289,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=bcb9a557fba96326f87907ee39d420df",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552053.044766,
+    "datetime": "2026-05-23 19:00:53",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=22b38abea78c5cee04307b0ed751eac6",
+    "response_time_ms": 323,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=22b38abea78c5cee04307b0ed751eac6",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552055.4423475,
+    "datetime": "2026-05-23 19:00:55",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=23e58e6020934bedb940386402f04cb6",
+    "response_time_ms": 327,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=23e58e6020934bedb940386402f04cb6",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552057.8940704,
+    "datetime": "2026-05-23 19:00:57",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=213c8f66872fd06f5ce5960fd24f3b3f",
+    "response_time_ms": 340,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=213c8f66872fd06f5ce5960fd24f3b3f",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552061.198771,
+    "datetime": "2026-05-23 19:01:01",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=12c994767cc5a1b3f136d86cb988892d",
+    "response_time_ms": 318,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=12c994767cc5a1b3f136d86cb988892d",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552063.6377985,
+    "datetime": "2026-05-23 19:01:03",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=3061d268c0c9f5dbc964242639942f85",
+    "response_time_ms": 302,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=3061d268c0c9f5dbc964242639942f85",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552066.3340733,
+    "datetime": "2026-05-23 19:01:06",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=2b30493fcf7b94eb9c2200576e0281d0",
+    "response_time_ms": 377,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=2b30493fcf7b94eb9c2200576e0281d0",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552068.9293716,
+    "datetime": "2026-05-23 19:01:08",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=dd6e0df48663247a263fde4cee93d587",
+    "response_time_ms": 300,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=dd6e0df48663247a263fde4cee93d587",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552074.8466537,
+    "datetime": "2026-05-23 19:01:14",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=01728478b62b9f8e66bf0d898cc5bd6d",
+    "response_time_ms": 307,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=01728478b62b9f8e66bf0d898cc5bd6d",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552076.3294966,
+    "datetime": "2026-05-23 19:01:16",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=71c40718d05552e662034e7dfba2e3dd",
+    "response_time_ms": 322,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=71c40718d05552e662034e7dfba2e3dd",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552080.9777334,
+    "datetime": "2026-05-23 19:01:20",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e612c636c558893fdfb6cfb46e1f8bb9",
+    "response_time_ms": 403,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e612c636c558893fdfb6cfb46e1f8bb9",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552082.7739723,
+    "datetime": "2026-05-23 19:01:22",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d0339b6d4c450894672b7ba12223bbef",
+    "response_time_ms": 325,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d0339b6d4c450894672b7ba12223bbef",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552085.7498803,
+    "datetime": "2026-05-23 19:01:25",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=2ad128afb6f43277c9c8f954a4b6180b",
+    "response_time_ms": 344,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=2ad128afb6f43277c9c8f954a4b6180b",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552088.0419967,
+    "datetime": "2026-05-23 19:01:28",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=7badf65d7d106d21de4e7d010f95ba26",
+    "response_time_ms": 363,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=7badf65d7d106d21de4e7d010f95ba26",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552090.5105698,
+    "datetime": "2026-05-23 19:01:30",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c31c5450612239922e36e73ceb2270fd",
+    "response_time_ms": 287,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c31c5450612239922e36e73ceb2270fd",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552093.7335222,
+    "datetime": "2026-05-23 19:01:33",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=cff9609ac21e871180c172fd410d4166",
+    "response_time_ms": 314,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=cff9609ac21e871180c172fd410d4166",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552096.131745,
+    "datetime": "2026-05-23 19:01:36",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d360dcd8aaafd81dd8dc4187a0b4594d",
+    "response_time_ms": 388,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d360dcd8aaafd81dd8dc4187a0b4594d",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552097.9760323,
+    "datetime": "2026-05-23 19:01:37",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=7885449612b53cfa4817854f596ca13f",
+    "response_time_ms": 560,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=7885449612b53cfa4817854f596ca13f",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552101.149031,
+    "datetime": "2026-05-23 19:01:41",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ac591d6f7e1b810a7d126ccce488d727",
+    "response_time_ms": 321,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ac591d6f7e1b810a7d126ccce488d727",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552106.4874098,
+    "datetime": "2026-05-23 19:01:46",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ccbd5ddaa08178ea5dbe06822a499411",
+    "response_time_ms": 303,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ccbd5ddaa08178ea5dbe06822a499411",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552108.628819,
+    "datetime": "2026-05-23 19:01:48",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b1074fdcd4a6f4c32512e6aaa1f4030e",
+    "response_time_ms": 297,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b1074fdcd4a6f4c32512e6aaa1f4030e",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552111.760556,
+    "datetime": "2026-05-23 19:01:51",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=4925f0cb3eb6db2cd91b590a76e07a31",
+    "response_time_ms": 298,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=4925f0cb3eb6db2cd91b590a76e07a31",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552114.00868,
+    "datetime": "2026-05-23 19:01:54",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=4d87601af113fe28d67cc992e4ab5e69",
+    "response_time_ms": 310,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=4d87601af113fe28d67cc992e4ab5e69",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552117.3932424,
+    "datetime": "2026-05-23 19:01:57",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=1efc7e10f46190408434cf19dffbad35",
+    "response_time_ms": 345,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=1efc7e10f46190408434cf19dffbad35",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552119.378311,
+    "datetime": "2026-05-23 19:01:59",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=30094c30181a0c66fc14e92d15a83ab9",
+    "response_time_ms": 314,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=30094c30181a0c66fc14e92d15a83ab9",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552121.015327,
+    "datetime": "2026-05-23 19:02:01",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=30145f3e3982436c8b6b2bbb30fdaca2",
+    "response_time_ms": 341,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=30145f3e3982436c8b6b2bbb30fdaca2",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552124.5575488,
+    "datetime": "2026-05-23 19:02:04",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=6a7136b58f09270b69b51878cfd84da5",
+    "response_time_ms": 328,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=6a7136b58f09270b69b51878cfd84da5",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552127.6309447,
+    "datetime": "2026-05-23 19:02:07",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a64c910365e9ccc4edd0eb8220d81c38",
+    "response_time_ms": 343,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=a64c910365e9ccc4edd0eb8220d81c38",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552134.968585,
+    "datetime": "2026-05-23 19:02:14",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=6107568e28a0d48e80234a0140154994",
+    "response_time_ms": 296,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=6107568e28a0d48e80234a0140154994",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552137.1949482,
+    "datetime": "2026-05-23 19:02:17",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c7ecf5baa79c28484aeab107e783e9e7",
+    "response_time_ms": 323,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c7ecf5baa79c28484aeab107e783e9e7",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552139.85562,
+    "datetime": "2026-05-23 19:02:19",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=405c4fe469adb1ac5aaeaaa48f48471d",
+    "response_time_ms": 325,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=405c4fe469adb1ac5aaeaaa48f48471d",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552145.8045764,
+    "datetime": "2026-05-23 19:02:25",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=4deff96fbb818104124913fa7353c09a",
+    "response_time_ms": 309,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=4deff96fbb818104124913fa7353c09a",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552148.2965996,
+    "datetime": "2026-05-23 19:02:28",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d360dcd8aaafd81dd8dc4187a0b4594d",
+    "response_time_ms": 332,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d360dcd8aaafd81dd8dc4187a0b4594d",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552150.7561195,
+    "datetime": "2026-05-23 19:02:30",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9d11d542feb1f4f580c0fa2acf1dbefe",
+    "response_time_ms": 301,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9d11d542feb1f4f580c0fa2acf1dbefe",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552153.746652,
+    "datetime": "2026-05-23 19:02:33",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=178a0dabb7d9fc3eb22ea8c3fe38e72f",
+    "response_time_ms": 342,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=178a0dabb7d9fc3eb22ea8c3fe38e72f",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552155.929634,
+    "datetime": "2026-05-23 19:02:35",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=523a2a5a14e9239f38fccaebc0a96d37",
+    "response_time_ms": 286,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=523a2a5a14e9239f38fccaebc0a96d37",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552158.492355,
+    "datetime": "2026-05-23 19:02:38",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=40ea1d98016854daa82d66b2e7123c84",
+    "response_time_ms": 292,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=40ea1d98016854daa82d66b2e7123c84",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552160.849982,
+    "datetime": "2026-05-23 19:02:40",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ae0c307a548637524898766e1283890b",
+    "response_time_ms": 403,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ae0c307a548637524898766e1283890b",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552162.8113513,
+    "datetime": "2026-05-23 19:02:42",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=005a4b58d5d5a5ae7be2b3465652a045",
+    "response_time_ms": 291,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=005a4b58d5d5a5ae7be2b3465652a045",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552164.6006212,
+    "datetime": "2026-05-23 19:02:44",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f69add32c2b3ed8bbdccfe702642e010",
+    "response_time_ms": 338,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f69add32c2b3ed8bbdccfe702642e010",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552168.0169883,
+    "datetime": "2026-05-23 19:02:48",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b7c2385f095833ee9dfd3c92e3317abd",
+    "response_time_ms": 406,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b7c2385f095833ee9dfd3c92e3317abd",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552172.734266,
+    "datetime": "2026-05-23 19:02:52",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=6b2b6c3f1e063c476167390797b45fc2",
+    "response_time_ms": 315,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=6b2b6c3f1e063c476167390797b45fc2",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552175.9649518,
+    "datetime": "2026-05-23 19:02:55",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=afdd41bb929f5fe36263efba7a80dcdd",
+    "response_time_ms": 308,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=afdd41bb929f5fe36263efba7a80dcdd",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552179.178769,
+    "datetime": "2026-05-23 19:02:59",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=971a6852e344537ba9befcc12434cb21",
+    "response_time_ms": 376,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=971a6852e344537ba9befcc12434cb21",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552184.6930113,
+    "datetime": "2026-05-23 19:03:04",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c336c183305fb04fa579fdc3a43a2a7f",
+    "response_time_ms": 3268,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c336c183305fb04fa579fdc3a43a2a7f",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552186.7665365,
+    "datetime": "2026-05-23 19:03:06",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=74c7b9e2e533365cbf68cab0fd818a89",
+    "response_time_ms": 303,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=74c7b9e2e533365cbf68cab0fd818a89",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552190.0321012,
+    "datetime": "2026-05-23 19:03:10",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=34b65b5b70ec3d306b592d9e76552d02",
+    "response_time_ms": 350,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=34b65b5b70ec3d306b592d9e76552d02",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552194.0158558,
+    "datetime": "2026-05-23 19:03:14",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ca7d13901624049c1e1e3852e8bbba65",
+    "response_time_ms": 279,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ca7d13901624049c1e1e3852e8bbba65",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552196.9246922,
+    "datetime": "2026-05-23 19:03:16",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=8ed34ea0a84b5f1c8297803b563e40a1",
+    "response_time_ms": 295,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=8ed34ea0a84b5f1c8297803b563e40a1",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552199.0640924,
+    "datetime": "2026-05-23 19:03:19",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9a3fa122c8dbb2d67044153870176e78",
+    "response_time_ms": 286,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9a3fa122c8dbb2d67044153870176e78",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552202.5231295,
+    "datetime": "2026-05-23 19:03:22",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d0a02e573f070f547c4ca48e4531eec1",
+    "response_time_ms": 2373,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d0a02e573f070f547c4ca48e4531eec1",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552204.681195,
+    "datetime": "2026-05-23 19:03:24",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b41fee39332618b2ab678f7b71401511",
+    "response_time_ms": 519,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b41fee39332618b2ab678f7b71401511",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552210.3611913,
+    "datetime": "2026-05-23 19:03:30",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c28058c13d8aecc87cdc8e5e382b65e2",
+    "response_time_ms": 323,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c28058c13d8aecc87cdc8e5e382b65e2",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552213.5944304,
+    "datetime": "2026-05-23 19:03:33",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=867b74dd93d6459eb1acc160ba3d5675",
+    "response_time_ms": 332,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=867b74dd93d6459eb1acc160ba3d5675",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552219.0109081,
+    "datetime": "2026-05-23 19:03:39",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=391b123e0d1b691a4c73751ed439c826",
+    "response_time_ms": 360,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=391b123e0d1b691a4c73751ed439c826",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552221.9801538,
+    "datetime": "2026-05-23 19:03:41",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c31c5450612239922e36e73ceb2270fd",
+    "response_time_ms": 351,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c31c5450612239922e36e73ceb2270fd",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552223.8183408,
+    "datetime": "2026-05-23 19:03:43",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d9c06e040c4ea1ab0ced151a7c7d23f3",
+    "response_time_ms": 282,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d9c06e040c4ea1ab0ced151a7c7d23f3",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552228.104398,
+    "datetime": "2026-05-23 19:03:48",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=8faa1b181a70d92178e06ec516c6462f",
+    "response_time_ms": 289,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=8faa1b181a70d92178e06ec516c6462f",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552230.2183735,
+    "datetime": "2026-05-23 19:03:50",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=12c5692ba4e3c62789eb7c512dc9ba73",
+    "response_time_ms": 404,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=12c5692ba4e3c62789eb7c512dc9ba73",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552231.707247,
+    "datetime": "2026-05-23 19:03:51",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b0be34d87e0614a3e2b1ce8ae6ef9014",
+    "response_time_ms": 317,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b0be34d87e0614a3e2b1ce8ae6ef9014",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552233.5144837,
+    "datetime": "2026-05-23 19:03:53",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9a46b4fc6499192a2f75f4490ef4a8e0",
+    "response_time_ms": 314,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9a46b4fc6499192a2f75f4490ef4a8e0",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552235.1870718,
+    "datetime": "2026-05-23 19:03:55",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d360dcd8aaafd81dd8dc4187a0b4594d",
+    "response_time_ms": 359,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=d360dcd8aaafd81dd8dc4187a0b4594d",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552238.8747642,
+    "datetime": "2026-05-23 19:03:58",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ce642ffc0f5adc6d72673964b5d629dd",
+    "response_time_ms": 426,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=ce642ffc0f5adc6d72673964b5d629dd",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552240.9830217,
+    "datetime": "2026-05-23 19:04:00",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=bf551dc0d827c57e707ab18d52b63a5a",
+    "response_time_ms": 343,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=bf551dc0d827c57e707ab18d52b63a5a",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552244.1638541,
+    "datetime": "2026-05-23 19:04:04",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=267d849215ede145f41de7af7ad030d1",
+    "response_time_ms": 346,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=267d849215ede145f41de7af7ad030d1",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552245.6370578,
+    "datetime": "2026-05-23 19:04:05",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=00ac25abd0bef94a7c3a6075218204d2",
+    "response_time_ms": 312,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=00ac25abd0bef94a7c3a6075218204d2",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552253.6206765,
+    "datetime": "2026-05-23 19:04:13",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=265b860a6d120d96d6639eae9e43b98a",
+    "response_time_ms": 330,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=265b860a6d120d96d6639eae9e43b98a",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552272.5654278,
+    "datetime": "2026-05-23 19:04:32",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=dee3b2c5-fb98-4556-ab33-c027cdf4b81c",
+    "response_time_ms": 809,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=dee3b2c5-fb98-4556-ab33-c027cdf4b81c",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552275.235212,
+    "datetime": "2026-05-23 19:04:35",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=3e6747c4-457d-4962-a20e-84503db60a86",
+    "response_time_ms": 662,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=3e6747c4-457d-4962-a20e-84503db60a86",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552277.174626,
+    "datetime": "2026-05-23 19:04:37",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=04777414-242b-437e-8039-e1e07976cd86",
+    "response_time_ms": 605,
+    "exception": "401 Client Error: Unauthorized for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=04777414-242b-437e-8039-e1e07976cd86",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552624.9264925,
+    "datetime": "2026-05-23 19:10:24",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=034b9bcd94c3d57995ae2d1ed0b0b2e8",
+    "response_time_ms": 469,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=034b9bcd94c3d57995ae2d1ed0b0b2e8",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552626.9082284,
+    "datetime": "2026-05-23 19:10:26",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=3c69e0a6512fa103917a098993ca118e",
+    "response_time_ms": 697,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=3c69e0a6512fa103917a098993ca118e",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552627.7371092,
+    "datetime": "2026-05-23 19:10:27",
+    "request_type": "GET",
+    "name": "Venues - Get Venue Sessions",
+    "response_time_ms": 480,
+    "exception": "422 Client Error: Unprocessable Entity for url: Venues - Get Venue Sessions",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552628.1004682,
+    "datetime": "2026-05-23 19:10:28",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "response_time_ms": 558,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552628.710477,
+    "datetime": "2026-05-23 19:10:28",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b3b43b5fa4dcd0a62f4dad763b8f860a",
+    "response_time_ms": 528,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b3b43b5fa4dcd0a62f4dad763b8f860a",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552631.5767748,
+    "datetime": "2026-05-23 19:10:31",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "response_time_ms": 857,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552632.9490018,
+    "datetime": "2026-05-23 19:10:32",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=8384a136-aee8-4b7f-aa79-860a85fe26b4&event_id=4531&admission_item_type=badge&sso_id=91aa8943-c53e-4b85-90e2-fc7755932b04&printing_type=manual_search",
+    "response_time_ms": 312,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=8384a136-aee8-4b7f-aa79-860a85fe26b4&event_id=4531&admission_item_type=badge&sso_id=91aa8943-c53e-4b85-90e2-fc7755932b04&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552634.8951988,
+    "datetime": "2026-05-23 19:10:34",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=1d907ae3-fe27-4da3-b278-860b0266455e",
+    "response_time_ms": 337,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=1d907ae3-fe27-4da3-b278-860b0266455e",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552635.9801877,
+    "datetime": "2026-05-23 19:10:35",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=03ef0b0f-b003-4011-b66b-9341592e8842",
+    "response_time_ms": 421,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=03ef0b0f-b003-4011-b66b-9341592e8842",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552639.669577,
+    "datetime": "2026-05-23 19:10:39",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 609,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552640.2805974,
+    "datetime": "2026-05-23 19:10:40",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=bbb7e8f0-001d-4d0e-ba1d-9c204501c4be",
+    "response_time_ms": 423,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=bbb7e8f0-001d-4d0e-ba1d-9c204501c4be",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552640.3821716,
+    "datetime": "2026-05-23 19:10:40",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=33f38b62-435f-4a5a-89bc-b527722639fd",
+    "response_time_ms": 573,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=33f38b62-435f-4a5a-89bc-b527722639fd",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552642.5373886,
+    "datetime": "2026-05-23 19:10:42",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=ceccff6f-3d91-45b9-b158-3292e9fc5dbd&event_id=4531&admission_item_type=badge&sso_id=7e4dcb47-588d-4824-986c-0e1fdd55d59b&printing_type=qr_code",
+    "response_time_ms": 411,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=ceccff6f-3d91-45b9-b158-3292e9fc5dbd&event_id=4531&admission_item_type=badge&sso_id=7e4dcb47-588d-4824-986c-0e1fdd55d59b&printing_type=qr_code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552643.8670852,
+    "datetime": "2026-05-23 19:10:43",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=9e2be917-f3ba-4ace-8588-08af6cfc6bdb&event_id=4531&admission_item_type=badge&sso_id=40bb3b26-0044-4b1c-b206-f76da7e509e1&printing_type=manual_search",
+    "response_time_ms": 462,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=9e2be917-f3ba-4ace-8588-08af6cfc6bdb&event_id=4531&admission_item_type=badge&sso_id=40bb3b26-0044-4b1c-b206-f76da7e509e1&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552644.1739697,
+    "datetime": "2026-05-23 19:10:44",
+    "request_type": "GET",
+    "name": "Sessions - Check User Access",
+    "response_time_ms": 316,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Check User Access",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552649.191309,
+    "datetime": "2026-05-23 19:10:49",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=af6092075bffbed8868e3321d1dcea92",
+    "response_time_ms": 557,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=af6092075bffbed8868e3321d1dcea92",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552650.5283046,
+    "datetime": "2026-05-23 19:10:50",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=99acc69f734269fb8472336c2730cffd",
+    "response_time_ms": 349,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=99acc69f734269fb8472336c2730cffd",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552652.9672108,
+    "datetime": "2026-05-23 19:10:52",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b47b3a34b55af20888c4eadd271a7842",
+    "response_time_ms": 1547,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b47b3a34b55af20888c4eadd271a7842",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552653.1839623,
+    "datetime": "2026-05-23 19:10:53",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=1fb39e31-6375-4e62-9b52-e649b5f0b3e6&event_id=4531&admission_item_type=badge&sso_id=7cb60010-6cf7-44b5-a452-9617fd46855b&printing_type=manual_search",
+    "response_time_ms": 514,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=1fb39e31-6375-4e62-9b52-e649b5f0b3e6&event_id=4531&admission_item_type=badge&sso_id=7cb60010-6cf7-44b5-a452-9617fd46855b&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552655.4368267,
+    "datetime": "2026-05-23 19:10:55",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=06e551d0-1194-451c-8f1c-a968cd55253c&event_id=4531&admission_item_type=badge&sso_id=adc7c743-faf0-4575-8824-6b74c8ee769c&printing_type=manual_search",
+    "response_time_ms": 360,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=06e551d0-1194-451c-8f1c-a968cd55253c&event_id=4531&admission_item_type=badge&sso_id=adc7c743-faf0-4575-8824-6b74c8ee769c&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552655.7436485,
+    "datetime": "2026-05-23 19:10:55",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=44230e5f-2c79-418f-9bde-ca323cd81c92&event_id=4531&admission_item_type=badge&sso_id=fa5c8648-e6f7-4755-bb5a-d73a1d511323&printing_type=manual_search",
+    "response_time_ms": 526,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=44230e5f-2c79-418f-9bde-ca323cd81c92&event_id=4531&admission_item_type=badge&sso_id=fa5c8648-e6f7-4755-bb5a-d73a1d511323&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552657.1972191,
+    "datetime": "2026-05-23 19:10:57",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=3567102c-6bf0-420a-8f69-812fa377a8b6",
+    "response_time_ms": 345,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=3567102c-6bf0-420a-8f69-812fa377a8b6",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552658.7139764,
+    "datetime": "2026-05-23 19:10:58",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b5daab63ddeb379e50e98c13ef3a136e",
+    "response_time_ms": 397,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b5daab63ddeb379e50e98c13ef3a136e",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552659.7522998,
+    "datetime": "2026-05-23 19:10:59",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=e6acfce1-51d3-4dea-9e7d-58c8caeb8074&event_id=4531&admission_item_type=badge&sso_id=40624596-78ae-4756-bcf3-436537328330&printing_type=qr_code",
+    "response_time_ms": 317,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=e6acfce1-51d3-4dea-9e7d-58c8caeb8074&event_id=4531&admission_item_type=badge&sso_id=40624596-78ae-4756-bcf3-436537328330&printing_type=qr_code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552659.8617475,
+    "datetime": "2026-05-23 19:10:59",
+    "request_type": "GET",
+    "name": "Venues - Get Venue Sessions",
+    "response_time_ms": 395,
+    "exception": "422 Client Error: Unprocessable Entity for url: Venues - Get Venue Sessions",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552661.18078,
+    "datetime": "2026-05-23 19:11:01",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=52071a65-0a0d-43a3-a5e2-11271629eccc&event_id=4531&admission_item_type=badge&sso_id=cb8c524b-3d98-464c-bd7c-1b0a70d0ed3f&printing_type=manual_search",
+    "response_time_ms": 315,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=52071a65-0a0d-43a3-a5e2-11271629eccc&event_id=4531&admission_item_type=badge&sso_id=cb8c524b-3d98-464c-bd7c-1b0a70d0ed3f&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552661.550965,
+    "datetime": "2026-05-23 19:11:01",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c1b0e57b038890bb420da9035318a9da",
+    "response_time_ms": 434,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c1b0e57b038890bb420da9035318a9da",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552663.4252937,
+    "datetime": "2026-05-23 19:11:03",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=97fcc5f7-bcc7-44af-8d90-43ba830af424&event_id=4531&admission_item_type=badge&sso_id=3978c9b5-6e88-4049-be1e-91d5ec341516&printing_type=qr_code",
+    "response_time_ms": 394,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=97fcc5f7-bcc7-44af-8d90-43ba830af424&event_id=4531&admission_item_type=badge&sso_id=3978c9b5-6e88-4049-be1e-91d5ec341516&printing_type=qr_code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552664.6565669,
+    "datetime": "2026-05-23 19:11:04",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c357f361634a2db6372714aa5a744e5f",
+    "response_time_ms": 570,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=c357f361634a2db6372714aa5a744e5f",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552666.2658103,
+    "datetime": "2026-05-23 19:11:06",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=ce4fec49-d1a0-4b01-ab3e-95588aa54a89",
+    "response_time_ms": 377,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=ce4fec49-d1a0-4b01-ab3e-95588aa54a89",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552666.4957485,
+    "datetime": "2026-05-23 19:11:06",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=be1ec717-b6c5-444f-86a7-8c58e6fca14f&event_id=4531&admission_item_type=badge&sso_id=e1d1ad28-2cdb-4b90-912a-c5fb52816a0b&printing_type=manual_search",
+    "response_time_ms": 403,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=be1ec717-b6c5-444f-86a7-8c58e6fca14f&event_id=4531&admission_item_type=badge&sso_id=e1d1ad28-2cdb-4b90-912a-c5fb52816a0b&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552668.6462917,
+    "datetime": "2026-05-23 19:11:08",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=f8578df6-1955-46a3-ba7b-46f1c65f886d",
+    "response_time_ms": 485,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=f8578df6-1955-46a3-ba7b-46f1c65f886d",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552668.912419,
+    "datetime": "2026-05-23 19:11:08",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "response_time_ms": 421,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552670.5621586,
+    "datetime": "2026-05-23 19:11:10",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=62caa46c-7256-483c-be65-eb91db60cc4d",
+    "response_time_ms": 722,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=62caa46c-7256-483c-be65-eb91db60cc4d",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552670.631448,
+    "datetime": "2026-05-23 19:11:10",
+    "request_type": "GET",
+    "name": "Sessions - Check User Access",
+    "response_time_ms": 680,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Check User Access",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552672.1264262,
+    "datetime": "2026-05-23 19:11:12",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "response_time_ms": 279,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552672.4364386,
+    "datetime": "2026-05-23 19:11:12",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=b42a1166-18c5-4548-aa40-9dd28c83fc6a",
+    "response_time_ms": 384,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=b42a1166-18c5-4548-aa40-9dd28c83fc6a",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552673.8471158,
+    "datetime": "2026-05-23 19:11:13",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=38e0afea-517f-4259-a82c-32ec7e842dbd&event_id=4531&admission_item_type=badge&sso_id=523dda11-b066-46d6-8dc3-b19d02da9fd0&printing_type=manual_search",
+    "response_time_ms": 370,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=38e0afea-517f-4259-a82c-32ec7e842dbd&event_id=4531&admission_item_type=badge&sso_id=523dda11-b066-46d6-8dc3-b19d02da9fd0&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552674.8699455,
+    "datetime": "2026-05-23 19:11:14",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e7ea977f153b87195175ac9b1b7f5b9b",
+    "response_time_ms": 317,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e7ea977f153b87195175ac9b1b7f5b9b",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552675.8745527,
+    "datetime": "2026-05-23 19:11:15",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=10ac00bd-169a-498e-b3d9-60760284da82",
+    "response_time_ms": 291,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=10ac00bd-169a-498e-b3d9-60760284da82",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552677.3498547,
+    "datetime": "2026-05-23 19:11:17",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=a69aa9aa-002a-496d-b215-de95fbfd9dc5",
+    "response_time_ms": 331,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=a69aa9aa-002a-496d-b215-de95fbfd9dc5",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552678.3730738,
+    "datetime": "2026-05-23 19:11:18",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=f8679c35-50ec-42c7-9cfd-aa8cd0d4f70a",
+    "response_time_ms": 590,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=f8679c35-50ec-42c7-9cfd-aa8cd0d4f70a",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552678.886149,
+    "datetime": "2026-05-23 19:11:18",
+    "request_type": "GET",
+    "name": "Sessions - Check User Access",
+    "response_time_ms": 352,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Check User Access",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552679.8071578,
+    "datetime": "2026-05-23 19:11:19",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=002a78e1-0d56-498d-aedc-a7b8e7e4c7a3",
+    "response_time_ms": 320,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=002a78e1-0d56-498d-aedc-a7b8e7e4c7a3",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552680.520574,
+    "datetime": "2026-05-23 19:11:20",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=52e69d9f-e606-40d5-b922-9e41e796ce01",
+    "response_time_ms": 303,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=52e69d9f-e606-40d5-b922-9e41e796ce01",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552681.9978461,
+    "datetime": "2026-05-23 19:11:21",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e05befd3612c2b802b2f76247a4f50e2",
+    "response_time_ms": 324,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=e05befd3612c2b802b2f76247a4f50e2",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552683.9672427,
+    "datetime": "2026-05-23 19:11:23",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=fc6990a79bd94d9375627d85f307ac95",
+    "response_time_ms": 341,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=fc6990a79bd94d9375627d85f307ac95",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552685.4070299,
+    "datetime": "2026-05-23 19:11:25",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=479b8502-25eb-44de-af0e-fcc0b9ee4293&event_id=4531&admission_item_type=badge&sso_id=bc236bc7-5c7b-4c3c-84bc-87260af3535b&printing_type=qr_code",
+    "response_time_ms": 440,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=479b8502-25eb-44de-af0e-fcc0b9ee4293&event_id=4531&admission_item_type=badge&sso_id=bc236bc7-5c7b-4c3c-84bc-87260af3535b&printing_type=qr_code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552686.6360338,
+    "datetime": "2026-05-23 19:11:26",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "response_time_ms": 271,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552688.0826612,
+    "datetime": "2026-05-23 19:11:28",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=ea6ae929-aaa9-48c8-b8da-a4b3df20cd1e&event_id=4531&admission_item_type=badge&sso_id=dfdd4243-500d-43d8-8fb7-22a97bb9fade&printing_type=qr_code",
+    "response_time_ms": 302,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=ea6ae929-aaa9-48c8-b8da-a4b3df20cd1e&event_id=4531&admission_item_type=badge&sso_id=dfdd4243-500d-43d8-8fb7-22a97bb9fade&printing_type=qr_code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552689.1249282,
+    "datetime": "2026-05-23 19:11:29",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=44da3263-0d0c-4160-85b4-cc092cd6ca92&event_id=4531&admission_item_type=badge&sso_id=c45fd1b1-b246-44d8-baa8-68ab9cae5daa&printing_type=qr_code",
+    "response_time_ms": 370,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=44da3263-0d0c-4160-85b4-cc092cd6ca92&event_id=4531&admission_item_type=badge&sso_id=c45fd1b1-b246-44d8-baa8-68ab9cae5daa&printing_type=qr_code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552689.845376,
+    "datetime": "2026-05-23 19:11:29",
+    "request_type": "GET",
+    "name": "Venues - Get Venue Sessions",
+    "response_time_ms": 335,
+    "exception": "422 Client Error: Unprocessable Entity for url: Venues - Get Venue Sessions",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552690.3544967,
+    "datetime": "2026-05-23 19:11:30",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "response_time_ms": 338,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552690.8669088,
+    "datetime": "2026-05-23 19:11:30",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=9134a5b9-faf5-4484-a9e8-3f030e9c4053",
+    "response_time_ms": 330,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=9134a5b9-faf5-4484-a9e8-3f030e9c4053",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552692.713135,
+    "datetime": "2026-05-23 19:11:32",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=978e8db3-7f27-480c-8034-a390f6867fcb&event_id=4531&admission_item_type=badge&sso_id=56e9325a-8773-45c6-bc28-aca4ccdb054c&printing_type=manual_search",
+    "response_time_ms": 573,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=978e8db3-7f27-480c-8034-a390f6867fcb&event_id=4531&admission_item_type=badge&sso_id=56e9325a-8773-45c6-bc28-aca4ccdb054c&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552692.8963952,
+    "datetime": "2026-05-23 19:11:32",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=d958e870-8f15-4183-858d-6586dc993c7c&event_id=4531&admission_item_type=badge&sso_id=ff6e864e-3d96-4341-8e57-211414184058&printing_type=qr_code",
+    "response_time_ms": 522,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=d958e870-8f15-4183-858d-6586dc993c7c&event_id=4531&admission_item_type=badge&sso_id=ff6e864e-3d96-4341-8e57-211414184058&printing_type=qr_code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552695.6793315,
+    "datetime": "2026-05-23 19:11:35",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=5ccd55e0-7001-4004-a7cb-ed7b39b31c84",
+    "response_time_ms": 401,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=5ccd55e0-7001-4004-a7cb-ed7b39b31c84",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552695.8681517,
+    "datetime": "2026-05-23 19:11:35",
+    "request_type": "GET",
+    "name": "Venues - Get Venue Sessions",
+    "response_time_ms": 403,
+    "exception": "422 Client Error: Unprocessable Entity for url: Venues - Get Venue Sessions",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552696.3696043,
+    "datetime": "2026-05-23 19:11:36",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=6b999ab1-b361-4c43-89de-f0aa96241706&event_id=4531&admission_item_type=badge&sso_id=435a8d7f-5ed4-4a15-b0b5-ffdc322018b3&printing_type=qr_code",
+    "response_time_ms": 344,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=6b999ab1-b361-4c43-89de-f0aa96241706&event_id=4531&admission_item_type=badge&sso_id=435a8d7f-5ed4-4a15-b0b5-ffdc322018b3&printing_type=qr_code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552697.8299,
+    "datetime": "2026-05-23 19:11:37",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=036e970bf41b12d9ce00cc185c9c7440",
+    "response_time_ms": 846,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=036e970bf41b12d9ce00cc185c9c7440",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552698.444186,
+    "datetime": "2026-05-23 19:11:38",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=ee93179c-feae-43d6-8a96-51bae2b14e1e&event_id=4531&admission_item_type=badge&sso_id=5604d4f8-efb7-406c-901e-e47900a1aedd&printing_type=manual_search",
+    "response_time_ms": 383,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=ee93179c-feae-43d6-8a96-51bae2b14e1e&event_id=4531&admission_item_type=badge&sso_id=5604d4f8-efb7-406c-901e-e47900a1aedd&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552699.634802,
+    "datetime": "2026-05-23 19:11:39",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=14bd4e829aad6b794a4ad7d1f4c527d6",
+    "response_time_ms": 450,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=14bd4e829aad6b794a4ad7d1f4c527d6",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552701.2591743,
+    "datetime": "2026-05-23 19:11:41",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=55ab1871f6e2422125587e153cdd9006",
+    "response_time_ms": 389,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=55ab1871f6e2422125587e153cdd9006",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552703.0522058,
+    "datetime": "2026-05-23 19:11:43",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "response_time_ms": 403,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552703.564239,
+    "datetime": "2026-05-23 19:11:43",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=705e8da8-dee9-4247-8b7f-40f685401a26",
+    "response_time_ms": 343,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=705e8da8-dee9-4247-8b7f-40f685401a26",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552706.3871477,
+    "datetime": "2026-05-23 19:11:46",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=6803c2d8-bc42-4495-8e96-2131734de5b2&event_id=4531&admission_item_type=badge&sso_id=cef1d41d-0f07-4ad7-8e68-187d5cf2fe0c&printing_type=manual_search",
+    "response_time_ms": 322,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=6803c2d8-bc42-4495-8e96-2131734de5b2&event_id=4531&admission_item_type=badge&sso_id=cef1d41d-0f07-4ad7-8e68-187d5cf2fe0c&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552706.6375804,
+    "datetime": "2026-05-23 19:11:46",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "response_time_ms": 417,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552709.8472044,
+    "datetime": "2026-05-23 19:11:49",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=e72212e2-dd34-45e1-a668-dd1646fb3fee&event_id=4531&admission_item_type=badge&sso_id=716b15cc-c8c8-4822-b57c-53e4165f4723&printing_type=manual_search",
+    "response_time_ms": 302,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=e72212e2-dd34-45e1-a668-dd1646fb3fee&event_id=4531&admission_item_type=badge&sso_id=716b15cc-c8c8-4822-b57c-53e4165f4723&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552710.2216551,
+    "datetime": "2026-05-23 19:11:50",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=f208c729-e7e9-4606-84f6-11ae4013e342",
+    "response_time_ms": 475,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=f208c729-e7e9-4606-84f6-11ae4013e342",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552711.8584986,
+    "datetime": "2026-05-23 19:11:51",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b3e86932fe2b4f5f4ebaeb4042a8fa2c",
+    "response_time_ms": 308,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=b3e86932fe2b4f5f4ebaeb4042a8fa2c",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552713.4497428,
+    "datetime": "2026-05-23 19:11:53",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=1796c023-90fa-4b7a-89ec-a49753980e50&event_id=4531&admission_item_type=badge&sso_id=acf46a12-1e88-458b-b820-4a29ead2e89b&printing_type=qr_code",
+    "response_time_ms": 340,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=1796c023-90fa-4b7a-89ec-a49753980e50&event_id=4531&admission_item_type=badge&sso_id=acf46a12-1e88-458b-b820-4a29ead2e89b&printing_type=qr_code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552714.0156522,
+    "datetime": "2026-05-23 19:11:54",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=8bd6818b-b1da-4992-9b62-0f67aba8fabe&event_id=4531&admission_item_type=badge&sso_id=af3f4d6d-fda8-44f3-829c-9336460ccd11&printing_type=manual_search",
+    "response_time_ms": 371,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=8bd6818b-b1da-4992-9b62-0f67aba8fabe&event_id=4531&admission_item_type=badge&sso_id=af3f4d6d-fda8-44f3-829c-9336460ccd11&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552715.1248627,
+    "datetime": "2026-05-23 19:11:55",
+    "request_type": "GET",
+    "name": "Sessions - Check User Access",
+    "response_time_ms": 296,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Check User Access",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552715.5692046,
+    "datetime": "2026-05-23 19:11:55",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "response_time_ms": 283,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552715.8531668,
+    "datetime": "2026-05-23 19:11:55",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "response_time_ms": 327,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552717.5632722,
+    "datetime": "2026-05-23 19:11:57",
+    "request_type": "GET",
+    "name": "Venues - Get Venue Sessions",
+    "response_time_ms": 309,
+    "exception": "422 Client Error: Unprocessable Entity for url: Venues - Get Venue Sessions",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552717.9042208,
+    "datetime": "2026-05-23 19:11:57",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=65be6a18-e7ef-4970-b9e3-05e2ec8227f6",
+    "response_time_ms": 353,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=65be6a18-e7ef-4970-b9e3-05e2ec8227f6",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552718.7187612,
+    "datetime": "2026-05-23 19:11:58",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=706094e6530b87911af70f00cd2ddd89",
+    "response_time_ms": 412,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=706094e6530b87911af70f00cd2ddd89",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552720.3887808,
+    "datetime": "2026-05-23 19:12:00",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9ffd30b1e759e87e0c8f4885512f33ee",
+    "response_time_ms": 492,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=9ffd30b1e759e87e0c8f4885512f33ee",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552720.573632,
+    "datetime": "2026-05-23 19:12:00",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=7ed3861f-e562-4c60-89d2-c7f2eee2cc36&event_id=4531&admission_item_type=badge&sso_id=e62e61d8-8e1a-4e3e-8e81-2e11bb26817e&printing_type=qr_code",
+    "response_time_ms": 631,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=7ed3861f-e562-4c60-89d2-c7f2eee2cc36&event_id=4531&admission_item_type=badge&sso_id=e62e61d8-8e1a-4e3e-8e81-2e11bb26817e&printing_type=qr_code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552722.7123702,
+    "datetime": "2026-05-23 19:12:02",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=1ec6178ade2fba4778ea725326730a23",
+    "response_time_ms": 411,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=1ec6178ade2fba4778ea725326730a23",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552723.2263477,
+    "datetime": "2026-05-23 19:12:03",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=a2327375-a8d2-4f9a-9276-3c6e96b1d96a&event_id=4531&admission_item_type=badge&sso_id=9f24760e-683a-42b9-ae1a-69a207f734d3&printing_type=manual_search",
+    "response_time_ms": 348,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=a2327375-a8d2-4f9a-9276-3c6e96b1d96a&event_id=4531&admission_item_type=badge&sso_id=9f24760e-683a-42b9-ae1a-69a207f734d3&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552724.8315544,
+    "datetime": "2026-05-23 19:12:04",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=21215b93-9d1f-4631-8141-35dde96002f4",
+    "response_time_ms": 392,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=21215b93-9d1f-4631-8141-35dde96002f4",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552725.1708298,
+    "datetime": "2026-05-23 19:12:05",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=a7a06365-c638-4b4a-9673-8d64cfae2df3",
+    "response_time_ms": 354,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=a7a06365-c638-4b4a-9673-8d64cfae2df3",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552727.7425618,
+    "datetime": "2026-05-23 19:12:07",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "response_time_ms": 299,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552728.652243,
+    "datetime": "2026-05-23 19:12:08",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=f4ad4688-6e05-4da8-8cea-6a54bcb6247e",
+    "response_time_ms": 395,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=f4ad4688-6e05-4da8-8cea-6a54bcb6247e",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552731.4182124,
+    "datetime": "2026-05-23 19:12:11",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=4f5b5e66-445e-47a6-bbb2-bbfd74518a74&event_id=4531&admission_item_type=badge&sso_id=e492355f-54a4-406d-8042-fec1a23eeb20&printing_type=manual_search",
+    "response_time_ms": 1253,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=4f5b5e66-445e-47a6-bbb2-bbfd74518a74&event_id=4531&admission_item_type=badge&sso_id=e492355f-54a4-406d-8042-fec1a23eeb20&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552731.5984523,
+    "datetime": "2026-05-23 19:12:11",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=05284181-2ebd-4564-8869-5b956b52f182",
+    "response_time_ms": 934,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=05284181-2ebd-4564-8869-5b956b52f182",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552732.1343868,
+    "datetime": "2026-05-23 19:12:12",
+    "request_type": "GET",
+    "name": "Venues - Get Venue Sessions",
+    "response_time_ms": 364,
+    "exception": "422 Client Error: Unprocessable Entity for url: Venues - Get Venue Sessions",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552733.159295,
+    "datetime": "2026-05-23 19:12:13",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=5f3237fd-11ea-4d37-8fbb-26466e31871c",
+    "response_time_ms": 364,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=5f3237fd-11ea-4d37-8fbb-26466e31871c",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552736.0865803,
+    "datetime": "2026-05-23 19:12:16",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=879cffcc91456da55d4769435fdf17d0",
+    "response_time_ms": 328,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=879cffcc91456da55d4769435fdf17d0",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552736.9306097,
+    "datetime": "2026-05-23 19:12:16",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=74e66b55-155f-489d-a665-5ed7f951f555",
+    "response_time_ms": 359,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=74e66b55-155f-489d-a665-5ed7f951f555",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552737.8682818,
+    "datetime": "2026-05-23 19:12:17",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=cd5e1924-9b9a-4387-a3d3-51079a94c7f3&event_id=4531&admission_item_type=badge&sso_id=dc277b59-4484-47de-a959-c606694d9282&printing_type=manual_search",
+    "response_time_ms": 353,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=cd5e1924-9b9a-4387-a3d3-51079a94c7f3&event_id=4531&admission_item_type=badge&sso_id=dc277b59-4484-47de-a959-c606694d9282&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552738.379951,
+    "datetime": "2026-05-23 19:12:18",
+    "request_type": "PATCH",
+    "name": "Sessions - Checkin",
+    "response_time_ms": 307,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Checkin",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552739.5282328,
+    "datetime": "2026-05-23 19:12:19",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=963dcc32-465a-43d0-bb5d-16317c89ab16",
+    "response_time_ms": 450,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=963dcc32-465a-43d0-bb5d-16317c89ab16",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552740.761928,
+    "datetime": "2026-05-23 19:12:20",
+    "request_type": "GET",
+    "name": "/api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f935beb7fc9fb972a9ced4b679ba83ed",
+    "response_time_ms": 342,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/show-item?event_id=4531&admission_item_type=user_badges&badge_qr_code=f935beb7fc9fb972a9ced4b679ba83ed",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552741.5550845,
+    "datetime": "2026-05-23 19:12:21",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=f68a6333-869b-4c20-8cc7-aa415cb7d7af&event_id=4531&admission_item_type=badge&sso_id=a29ee6b2-51d3-472b-9382-35c4eb9267dd&printing_type=manual_search",
+    "response_time_ms": 356,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=f68a6333-869b-4c20-8cc7-aa415cb7d7af&event_id=4531&admission_item_type=badge&sso_id=a29ee6b2-51d3-472b-9382-35c4eb9267dd&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552743.2801309,
+    "datetime": "2026-05-23 19:12:23",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=758290a1-ca67-41b1-a405-404943e90e75",
+    "response_time_ms": 517,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/send-print-verification-code?event_id=4531&admission_item_type=user_badges&sso_id=758290a1-ca67-41b1-a405-404943e90e75",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552744.7100859,
+    "datetime": "2026-05-23 19:12:24",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=e2dcf9d5-586d-4e88-8c64-598b8daf4fc5&event_id=4531&admission_item_type=badge&sso_id=4559f959-557e-44f5-b6b1-67f1ecd44681&printing_type=qr_code",
+    "response_time_ms": 322,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=e2dcf9d5-586d-4e88-8c64-598b8daf4fc5&event_id=4531&admission_item_type=badge&sso_id=4559f959-557e-44f5-b6b1-67f1ecd44681&printing_type=qr_code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552744.879943,
+    "datetime": "2026-05-23 19:12:24",
+    "request_type": "GET",
+    "name": "Sessions - Check User Access",
+    "response_time_ms": 322,
+    "exception": "422 Client Error: Unprocessable Entity for url: Sessions - Check User Access",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552746.2571962,
+    "datetime": "2026-05-23 19:12:26",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "response_time_ms": 286,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552747.8054135,
+    "datetime": "2026-05-23 19:12:27",
+    "request_type": "POST",
+    "name": "/api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "response_time_ms": 471,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/verify-print-verification-code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552748.8092744,
+    "datetime": "2026-05-23 19:12:28",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=d8589cb0-8bda-4c16-9769-a2e1aebada76&event_id=4531&admission_item_type=badge&sso_id=f0e6ee3b-4667-4900-a044-46512b7a7017&printing_type=qr_code",
+    "response_time_ms": 482,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=d8589cb0-8bda-4c16-9769-a2e1aebada76&event_id=4531&admission_item_type=badge&sso_id=f0e6ee3b-4667-4900-a044-46512b7a7017&printing_type=qr_code",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552750.7861724,
+    "datetime": "2026-05-23 19:12:30",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=8904add3-93a2-4347-b303-469865e018f3&event_id=4531&admission_item_type=badge&sso_id=a2657e66-d8a0-4e9f-b00c-c35cd95d918d&printing_type=manual_search",
+    "response_time_ms": 335,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=8904add3-93a2-4347-b303-469865e018f3&event_id=4531&admission_item_type=badge&sso_id=a2657e66-d8a0-4e9f-b00c-c35cd95d918d&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
+  },
+  {
+    "timestamp": 1779552752.0957355,
+    "datetime": "2026-05-23 19:12:32",
+    "request_type": "PATCH",
+    "name": "/api/v3/admission-portal/admission-items/print?id=6269480b-2b45-4067-94c6-ea0b6e9ee777&event_id=4531&admission_item_type=badge&sso_id=dec0aeea-a547-4828-b4e6-af6aba798bc6&printing_type=manual_search",
+    "response_time_ms": 451,
+    "exception": "422 Client Error: Unprocessable Entity for url: /api/v3/admission-portal/admission-items/print?id=6269480b-2b45-4067-94c6-ea0b6e9ee777&event_id=4531&admission_item_type=badge&sso_id=dec0aeea-a547-4828-b4e6-af6aba798bc6&printing_type=manual_search",
+    "stack_trace": "NoneType: None\n"
   }
 ]
