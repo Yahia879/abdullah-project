@@ -8,7 +8,7 @@ def get_endpoint():
     offset = 0  
     limit = 10  
     
-    return f"/api/v3/mobile-logistics/notification-update-templates?event_id=112&template_type=sessions"
+    return f"/api/v3/mobile-logistics/notification-update-templates?event_id=4531&template_type=sessions"
 
 def get_method():
     return "GET"

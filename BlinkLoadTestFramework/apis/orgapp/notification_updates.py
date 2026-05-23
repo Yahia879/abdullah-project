@@ -4,12 +4,12 @@ from apis import base_api
 
 def create_message():
     # Generate dynamic values
-    dynamic_body = f"This is a dynamic notification body {random.randint(1, 1000)}"
-    dynamic_event_id = base_api.generate_event_id()
+    dynamic_event_id = int(base_api.generate_event_id())
+    dynamic_session_id = base_api.generate_session_id()
     
     # Create the message body with dynamic values
     message_json_body = {
-  "title": "Send update",
+  "title": f"Send update {random.randint(1, 1000)}",
   "body": "This is a send update body",
   "sms": False,
   "email": False,
@@ -29,7 +29,7 @@ def create_message():
   "notification_type": "now",
   "time": "18:30",
   "date": "2025-05-22",
-  "event_id": 112,
+  "event_id": dynamic_event_id,
   "audience": {
     "users": {
       "date": "",
@@ -39,7 +39,7 @@ def create_message():
     },
     "sessions": {
       "date": "",
-      "selected_ids": [933],
+      "selected_ids": [int(dynamic_session_id)] if str(dynamic_session_id).isdigit() else [],
       "unselected_ids": [],
       "is_select_all": False
     },

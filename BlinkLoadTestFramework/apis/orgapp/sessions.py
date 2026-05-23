@@ -12,7 +12,7 @@ def get_sessions_method():
     return "GET"
 
 def get_check_user_access_endpoint():
-    return f"/api/v3/mobile-logistics/itineraries/sessions/931/check-user-access?qr_code=44b90d0c-2f58-4ce7-bc43-f439eedff4a4&event_id=112"
+    return f"/api/v3/mobile-logistics/itineraries/sessions/931/check-user-access?qr_code=44b90d0c-2f58-4ce7-bc43-f439eedff4a4&event_id=4531"
 
 def get_check_user_access_method():
     return "GET"
